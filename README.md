@@ -99,11 +99,12 @@ GestureRobot/
 ```bash
 cd CNN_Model
 pip install -r requirements.txt
-
+--- 
 ## requirements.txt:
 tensorflow
 opencv-python
 firebase-admin
 numpy
-
+---
 ## 📷 Demo
+---
